@@ -1,5 +1,5 @@
 
-## Hi! Currently student @UCSD. Previously @SpaceX
+## Hi! Currently student @UCSD interested in software systems and AI infrastructure. Previously interned @SpaceX
 
 [![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/f1eepe)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-chen6)
